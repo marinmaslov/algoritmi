@@ -59,7 +59,7 @@ U analogiji, vrijednost n je npr. broj elemenata 1D niza koje je potrebno ispisa
 Navedeni pristupi nam omogućavaju da za dobiveni izraz sume pronađemo pripadno rješenje. Upravo ovom problematikom bavi se 1. zadatak vježbe. Sljedeća problematika vježbe je dokaz indukcijom. Naime, u 2.,3. i 4. zadatku vidljivo je da su zadane sume ali i njihova rješenja. Kako provjeriti da li vrijedi tvrdnja da lijeva strana (izraz sa sumom) je jednak desnoj strani (izraz sa parametrom n)? Dokaz indukcijom nam upravo omogućava da kroz nekoliko koraka i hipoteza provjerimo da li vrijedi tvrdnja da je desna strana odnosno funkcija f(n) (izraz sa parametrom n) rješenje sume koja je na lijevoj strani jednakosti.
 
 ### Označavanje složenosti
-Postoji nekoliko načina označavanja složenosti, na ovom kolegiju ćemo se uglavnom držati $\Theta notacije$, međutim na drugim kolegijima, ponajviše na strukturama podataka ćete se upoznati i s [drugim tipovima označavanja](https://www.geeksforgeeks.org/difference-between-big-oh-big-omega-and-big-theta/).
+Postoji nekoliko načina označavanja složenosti, na ovom kolegiju ćemo se uglavnom držati $\Theta$ notacije, međutim upoznat ćete se i s [drugim tipovima označavanja](https://www.geeksforgeeks.org/difference-between-big-oh-big-omega-and-big-theta/).
 
 
 ____________________________
