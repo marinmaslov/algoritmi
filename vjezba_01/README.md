@@ -66,12 +66,12 @@ Sada riješimo integral:
 $$\sum_{i=1}^n i^r \leq \int_1^{n+1} i^rd(i) = \frac{i^{r+1}}{r+1}\Biggr|_{i=1}^{i=n+1} = \frac{(n+1)^{r+1}}{r+1} - \frac{1^{r+1}}{r+1}$$
 
 Ovdje valja primijetiti sljedeće:
-- $r$ je konstanta, pa su i izrazi $r+$ i $r^{r+1} konstante
+- $r$ je konstanta, pa su i izrazi $r+$ i $r^{r+1}$ konstante
 - kako su navedeni izrazi konstante rješnje isključivo ovisi o izrazu $(n+1)^{r+1}$
 
 Kako rješenje isključivo ovisi $(n+1)^{r+1}$, razmotrimo ga.
 
-Raspisivanjem binarnog poučka dobije se izraz s različitim koeficijentima u kojem je ponovo vidljivo da je samo jedan dominantan, a to je $n^{r+1}$.
+Raspisivanjem [binomnog poučka](https://hr.wikipedia.org/wiki/Binomni_poučak) dobije se izraz s različitim koeficijentima u kojem je ponovo vidljivo da je samo jedan dominantan, a to je $n^{r+1}$.
 
 Prema tome vrijedi:
 
